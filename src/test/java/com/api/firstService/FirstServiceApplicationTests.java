@@ -1,10 +1,10 @@
-package com.orquestrador.containerUm;
+package com.api.firstService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ContainerUmApplicationTests {
+class FirstServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
